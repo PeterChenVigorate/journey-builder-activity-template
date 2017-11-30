@@ -3,12 +3,12 @@
     "metaData": {
         "icon": "images/icon.png",
         "iconSmall": "images/iconSmall.png",
-        "category": "message"
+        "category": "sales_service"
     },
     "type": "REST",
     "lang": {
         "en-US": {
-            "name": "Journey #1",
+            "name": "Journey #4",
           "description": "A Template for a custom Journey Builder activity",
           "step1Label": "Configure Activity"
         }
@@ -31,7 +31,7 @@
         }
     },
     "configurationArguments": {
-      "applicationExtensionKey": "wT5PXhBLgx8Uh9eZGbH",
+      "applicationExtensionKey": "y8B3B0C2WR",
       "save": {
         "url": "https://journey-builder-activity.herokuapp.com/journeybuilder/save",
           "verb": "POST",
