@@ -3,12 +3,12 @@
     "metaData": {
         "icon": "images/icon.png",
         "iconSmall": "images/iconSmall.png",
-        "category": "message"
+        "category": "data_updates"
     },
     "type": "REST",
     "lang": {
         "en-US": {
-            "name": "Journey #1",
+            "name": "Journey #2",
           "description": "A Template for a custom Journey Builder activity",
           "step1Label": "Configure Activity"
         }
